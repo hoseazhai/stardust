@@ -2,7 +2,7 @@ package csvx
 
 import (
 	"encoding/json"
-	"github.com/cnych/stardust/encodingx/jsonx/freejson"
+	"github.com/hoseazhai/stardust/encodingx/jsonx/freejson"
 )
 
 func ToFreejson(data []byte) (interface{}, error) {

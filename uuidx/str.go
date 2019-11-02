@@ -1,8 +1,8 @@
 package uuidx
 
 import (
-	"github.com/cnych/stardust/encodingx/base64x"
-	"github.com/cnych/stardust/encodingx/hexx"
+	"github.com/hoseazhai/stardust/encodingx/base64x"
+	"github.com/hoseazhai/stardust/encodingx/hexx"
 	"github.com/satori/go.uuid"
 )
 

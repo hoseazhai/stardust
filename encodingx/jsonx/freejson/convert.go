@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/cnych/stardust/timex"
+	"github.com/hoseazhai/stardust/timex"
 	"gopkg.in/mgo.v2/bson"
 	"time"
 )

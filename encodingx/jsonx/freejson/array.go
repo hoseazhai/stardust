@@ -1,7 +1,7 @@
 package freejson
 
 import (
-	"github.com/cnych/stardust/encodingx/jsonx"
+	"github.com/hoseazhai/stardust/encodingx/jsonx"
 	"time"
 )
 
