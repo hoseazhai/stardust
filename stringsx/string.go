@@ -2,7 +2,7 @@ package stringsx
 
 import (
 	"fmt"
-	"github.com/cnchy/stardust/netx/httpx"
+	"github.com/hoseazhai/stardust/netx/httpx"
 	"path"
 	"regexp"
 	"strings"
