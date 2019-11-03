@@ -1,4 +1,4 @@
-module github.com/hoseazhai/stardust
+module github.com/hoseazhai/stardust/v4
 
 go 1.13
 
